@@ -38,7 +38,22 @@
 ![image](https://user-images.githubusercontent.com/40290711/170362663-752f9dc8-cce2-4e01-a957-14194362c419.png)
 
 ### STEP 2: Subscribe to a Topic
-> While you are viewing the details of the newly created topic, start the Create subscription wizard, and use the following details:
+> While you are viewing the details of the newly created topic, start the Create subscription wizard.
 
 ![image](https://user-images.githubusercontent.com/40290711/170363593-cf67cf3c-a0b6-4a0d-a733-af642a7d767e.png)
+
+> Use the following details:
+>         Field                     Value
+>          Protocol                  Amazon SQS
+>          Endpoint                  Amazon SQS ARN
+
+![image](https://user-images.githubusercontent.com/40290711/170366759-79a5c033-0013-462e-85ec-49ac2cb4b625.png)
+
+![image](https://user-images.githubusercontent.com/40290711/170368970-51ab7c2f-5813-43e8-8630-6b2773df849a.png)
+
+> In your web browser, a subscription confirmation screen appears
+
+![image](https://user-images.githubusercontent.com/40290711/170369176-4d8c773b-b5de-468b-aa6a-ee8ae8ea85f9.png)
+
+
 
