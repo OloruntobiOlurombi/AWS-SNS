@@ -67,5 +67,7 @@
 
 ![image](https://user-images.githubusercontent.com/40290711/170371410-204b496f-c62a-4316-8c24-d0a5b2b40b5f.png)
 
+![image](https://user-images.githubusercontent.com/40290711/170371574-62a0fb59-5c95-494e-a1d9-e33dcfebe609.png)
 
-
+> Go to the Queues dashboard to poll for the messages and click on details
+> ![image](https://user-images.githubusercontent.com/40290711/170372120-c1047491-214d-4f5b-8c4f-73b40b405798.png)
