@@ -55,5 +55,17 @@
 
 ![image](https://user-images.githubusercontent.com/40290711/170369176-4d8c773b-b5de-468b-aa6a-ee8ae8ea85f9.png)
 
+### STEP 3: Publish Message to a Topic
+> Go back to the Topics service.
+> Select the topic you created earlier and Publish a message with the following details:
+
+![image](https://user-images.githubusercontent.com/40290711/170370467-23600863-9246-4b9c-b533-5398040d24f8.png)
+
+![image](https://user-images.githubusercontent.com/40290711/170371176-5a3838ce-a31b-4d63-bdde-211d99683c0a.png)
+
+![image](https://user-images.githubusercontent.com/40290711/170371310-ce22ff5c-1753-499f-885b-d3b6ef3af916.png)
+
+![image](https://user-images.githubusercontent.com/40290711/170371410-204b496f-c62a-4316-8c24-d0a5b2b40b5f.png)
+
 
 
