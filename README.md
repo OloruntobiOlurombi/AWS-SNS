@@ -33,3 +33,12 @@
 
 ![image](https://user-images.githubusercontent.com/40290711/170362349-c03dabf0-c980-45e6-a7cb-53405ebc12c9.png)
 
+> Finish the Create topic. The topic details will display, or you can select the newly created topic from the Topics dashboard to create a subscription next.
+
+![image](https://user-images.githubusercontent.com/40290711/170362663-752f9dc8-cce2-4e01-a957-14194362c419.png)
+
+### STEP 2: Subscribe to a Topic
+> While you are viewing the details of the newly created topic, start the Create subscription wizard, and use the following details:
+
+![image](https://user-images.githubusercontent.com/40290711/170363593-cf67cf3c-a0b6-4a0d-a733-af642a7d767e.png)
+
